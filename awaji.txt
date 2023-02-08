@@ -1,0 +1,1 @@
+<speak><prosody rate="60%">ホテル</prosody><prosody rate="40%">ニュー</prosody><prosody rate="30%">あわじ</prosody></speak>
